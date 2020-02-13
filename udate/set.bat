@@ -1,0 +1,1 @@
+setx Path "%Path%;C:\Program Files (x86)\WinSCP" /m
